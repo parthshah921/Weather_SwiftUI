@@ -273,7 +273,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Weather/Preview Content\"";
-				DEVELOPMENT_TEAM = H69U55MWXW;
+				DEVELOPMENT_TEAM = 5LF593978S;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Weather/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -281,7 +281,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.seanallen.SwiftUI-Weather";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.parthshah.SwiftUI-Weather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -295,7 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Weather/Preview Content\"";
-				DEVELOPMENT_TEAM = H69U55MWXW;
+				DEVELOPMENT_TEAM = 5LF593978S;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Weather/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -303,7 +303,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.seanallen.SwiftUI-Weather";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.parthshah.SwiftUI-Weather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -1,10 +1,3 @@
-//
-//  WeatherButton.swift
-//  SwiftUI-Weather
-//
-//  Created by Sean Allen on 10/27/20.
-//
-
 import SwiftUI
 
 struct WeatherButton: View {
